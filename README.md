@@ -26,6 +26,15 @@ Or visit the live documentation: **[https://kaysharp42.github.io/MapVoter/Config
 
 To publish this documentation as a website on GitHub Pages:
 
+1. Go to your repository **Settings** → **Pages**
+2. Under **Source**, select **Deploy from a branch**
+3. Select the **main** branch and **/ (root)** folder
+4. Click **Save**
+5. Wait a few minutes for GitHub to build and deploy
+6. Your documentation will be available at: `https://kaysharp42.github.io/MapVoter/`
+
+The site will automatically redirect to the Configuration Guide.
+
 ## 🔗 Links
 
 - **Plugin Store**: [Codefling - MapVoter](https://codefling.com/plugins/map-voter-and-auto-wipe-script)
